@@ -1,0 +1,11 @@
+.vsc*
+venv/
+.env
+keys/
+data/*
+volume/
+jars/
+dags/*
+logs/
+plugins/
+config/
